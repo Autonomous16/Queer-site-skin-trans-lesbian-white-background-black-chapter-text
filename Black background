@@ -1,0 +1,634 @@
+
+#header; 
+#outer.wrapper {
+  background-image: url("https://www.flagcolorcodes.com/data/flag-of-pride-rainbow.png");
+  background-repeat: repeat-x;
+  background-size: auto 100%;
+  background-position: left center;
+}
+
+.blurb .userstuff.summary {
+  background: #a30262;
+  color: #161922;
+  border: 1px solid #a30262;
+  padding: 10px;
+  border-radius: 5px;
+}
+
+#inner {
+  background: #161922;
+}
+
+#main {
+  color: #f2bddb;
+}
+
+#main a {
+  color: #add8e6;
+}
+
+#header .heading {
+  height: 9em;
+}
+
+#header .primary,
+#footer {
+  background: #f9d6ea;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.3);
+  border: 1px solid #161922;
+  border-radius: 5px;
+}
+
+#header .primary a,
+#header a,
+#footer .heading,
+#footer li {
+  color: #000;
+}
+
+#footer {
+  border-top: none;
+}
+
+#header .dropdown .menu,
+#greeting .dropdown .menu a {
+  background: #f9d6ea;
+  color: #161922 !important;
+  border: 1px solid #161922;
+}
+
+#header .actions a:hover,
+#header .actions a:focus,
+#header .dropdown a:hover,
+#header .open a {
+  background: #f2bddb !important;
+  color: #000 !important;
+}
+
+a.tag,
+a.tag:visited,
+a.tag:link {
+  display: inline-block;
+  padding: 2px 5px;
+  margin: 2px 0px;
+  border-radius: 5px;
+}
+
+.commas li:after {
+  content: "";
+}
+
+a.tag:hover {
+  background: #f2bddb;
+}
+
+.event .userstuff {
+  background: #c98cf4 !important;
+  border-color: #161922;
+  border-radius: 5px;
+  box-shadow: none !important;
+  color: #161922 !important;
+}
+
+.announcement .thermometer .track {
+  background: #161922;
+  border: 1px solid #c98cf4;
+  height: 1.25em;
+  background-image: linear-gradient(to bottom, rgba(195,165,92,1) 0%, rgba(244,242,183,1) 50%, rgba(195,165,92,1) 100%) !important;
+}
+
+div.progress {
+  background: linear-gradient(90deg,rgba(106, 76, 188, 1) 0%, rgba(145, 119, 217, 1) 49%) !important;
+}
+
+.announcement input[type="submit"] {
+  background: linear-gradient(90deg, rgba(195,165,92,1) 0%, rgba(244,242,183,1) 50%, rgba(195,165,92,1) 100%);
+}
+
+.notice,
+.comment_notice,
+.kudos_notice,
+ul.notes,
+.caution,
+.error,
+.comment_error,
+.kudos_error,
+.alert.flash,
+.LV_invalid {
+  background: #c98cf4;
+  border-color: #161922;
+  border-radius: 5px;
+  box-shadow: none !important;
+  color: #161922 !important;
+}
+
+.notice a,
+.comment_notice a,
+.kudos_notice a,
+ul.notes a,
+.caution a,
+.error a,
+.comment_error a,
+.kudos_error a,
+.alert.flash a {
+  color: #6a4cbc !important;
+}
+
+p.muted.notice,
+#header #search .text,
+#header #search .button,
+#header .heading sup,
+#header img.logo {
+  display: none;
+}
+
+#header .heading a,
+#header .user a,
+#small_login .action {
+  color: #add8e6 !important;
+  background: #161922;
+}
+
+#greeting img.icon {
+  display: none;
+}
+
+.resp-sharing-button--twitter {
+  background: #fdbb8b !important;
+}
+
+.resp-sharing-button--tumblr {
+  background: #e9485a !important;
+}
+
+.actions a,
+.actions a:link,
+.action,
+.action:link,
+.actions button,
+.actions input,
+input[type="submit"],
+button,
+.current,
+.actions label {
+  background: #f9d6ea;
+  color: #161922 !important;
+  border: 1px solid #161922;
+  box-shadow: none;
+}
+
+.actions a:hover,
+.actions button:hover,
+.actions input:hover,
+.actions a:focus,
+.actions button:focus,
+.actions input:focus,
+label.action:hover,
+.action:hover,
+.action:focus {
+  color: #161922 !important;
+  background: #f2bddb;
+  border: 1px solid #161922;
+  box-shadow: none;
+}
+
+.actions a:active,
+.current,
+a.current,
+a:link.current,
+.current a:visited {
+  color: #f9d6ea !important;
+  background: #161922;
+  border: 1px solid #f9d6ea;
+  box-shadow: 1px 1px #f9d6ea;
+}
+
+fieldset,
+fieldset fieldset,
+fieldset dl dl,
+fieldset fieldset fieldset,
+fieldset fieldset dl dl,
+dd.hideme,
+form blockquote.userstuff,
+.draft,
+.draft .wrapper,
+.dynamic form,
+.own {
+  background: #161922;
+  border: 2px solid #add8e6;
+  box-shadow: none;
+}
+
+div.dynamic {
+  background: #161922;
+}
+
+.dynamic form,
+.post .required .warnings,
+form dd.required {
+  color: #f2bddb;
+}
+
+.required,
+.footnote {
+  color: #e9485a;
+}
+
+.autocomplete li.added,
+.post .meta dd ul li.added {
+  color: #53a9b6;
+}
+
+form dl {
+  background: none;
+  box-shadow: none;
+  border: none;
+}
+
+.filters .expander {
+  background: url("https://i.imgur.com/94Ap0Eu.jpeg") left center no-repeat;
+  color: #f2bddb !important;
+}
+
+.filters .expanded .expander {
+  background-image: url("https://i.imgur.com/94Ap0Eu.jpeg");
+}
+
+.dropdown {
+  background: #161922;
+}
+
+.listbox {
+  background: #add8e6;
+  box-shadow: none;
+  border: 2px solid #f2bddb;
+}
+
+.listbox .index {
+  background: #161922;
+  border: none;
+  box-shadow: none;
+}
+
+li.blurb {
+  border: 1px solid #f2bddb;
+}
+
+input,
+textarea,
+select {
+  background: #f9d6ea;
+  box-shadow: none;
+}
+
+input:focus,
+select:focus,
+textarea:focus {
+  background: #f2bddb;
+}
+
+form.verbose legend,
+.verbose form legend {
+  background: #53a9b6;
+  color: #000 !important;
+  border: 2px solid #53a9b6;
+  box-shadow: none;
+}
+
+span.question {
+  background: #f2bddb;
+  border: 1px solid #161922;
+  color: #161922;
+}
+
+form dt {
+  border-bottom: 1px solid #f2bddb;
+}
+
+fieldset,
+.dynamic form,
+form blockquote.userstuff {
+  border: 2px solid #f2bddb;
+}
+
+.splash .favorite a,
+.splash .favorite li:nth-of-type(odd) a {
+  background: #f9d6ea;
+  color: #161922 !important;
+  border: 1px solid #161922;
+}
+
+.splash .favorite a:hover,
+.splash .favorite a:focus,
+.splash .favorite li:nth-of-type(odd) a:hover,
+.splash .favorite li:nth-of-type(odd) a:focus {
+  background: #161922;
+  border: 1px solid #f2bddb;
+  color: #f2bddb !important;
+}
+
+.splash .module h3,
+.splash .link a {
+  border-bottom: 1px solid #f2bddb;
+  color: #c755c4;
+}
+
+.splash .news li a {
+  color: #4d8b58;
+}
+
+.splash .news li a:visited {
+  color: #add8e6;
+}
+
+.splash .news li {
+  border-bottom: 1px solid #f2bddb;
+}
+
+a.rss span {
+  background: none;
+  padding-left: 1px;
+}
+
+#dashboard,
+#dashboard.own {
+  background: #f9d6ea;
+  border-top: 15px solid #f9d6ea;
+  border-bottom: 15px solid #f9d6ea;
+}
+
+#dashboard ul {
+  border-top: 2px solid #f9d6ea;
+}
+
+#dashboard a:hover {
+  background: #161922 !important;
+  color: #f9d6ea !important;
+}
+
+#dashboard .current {
+  background: #161922;
+}
+
+dl.meta {
+  border: 1px solid #f2bddb;
+  box-shadow: none;
+}
+
+.wrapper {
+  box-shadow: none;
+}
+
+.index .skins .icon,
+.skins .primary .icon,
+.index .mystery .icon {
+  background: url("https://i.imgur.com/NlDtO4i.jpeg");
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+p.kudos {
+  background: url("https://i.imgur.com/NlDtO4i.jpeg");
+  background-repeat: no-repeat;
+  background-size: 50px 50px;
+}
+
+#header h2,
+h2.collections {
+  background: #53a9b6 !important;
+  border: none;
+  color: #000;
+}
+
+.replied {
+  background: #add8e6;
+  color: #000;
+  border: 1px solid #f2bddb;
+}
+
+span.unread {
+  background: #e9485a;
+  color: #000;
+  border: 1px solid #f2bddb;
+}
+
+#stat_chart svg rect:first-of-type {
+  filter: invert(50%);
+}
+
+#stat_chart g[clip-path^=url] > g:nth-of-type(2) rect,
+#stat_chart svg g:nth-of-type(2) > g rect:last-of-type,
+#stat_chart g[clip-path^=url] > g:nth-of-type(2) rect:first-of-type {
+  filter: hue-rotate(190deg);
+}
+
+.statistics .index li:nth-of-type(2n) {
+  background: none;
+  border-top: 2px solid #f2bddb;
+  border-bottom: 2px solid #f2bddb;
+}
+
+.reading h4.viewed {
+  background: #6a4cbc;
+  color: #f4f2b7;
+  border: 2px solid #6a4cbc;
+  border-radius: 5px;
+  padding-left: 3px;
+}
+
+dl.index dd,
+.child {
+  background: none;
+}
+
+table {
+  background: none;
+}
+
+thead,
+tfoot {
+  border-bottom: 2px solid #f2bddb;
+}
+
+tfoot td {
+  border-top: 1px solid #f2bddb;
+}
+
+tbody tr {
+  border-bottom: 1px solid #f2bddb;
+}
+
+thead td {
+  background: #add8e6;
+  color: #000;
+  border-bottom: 1px solid #f2bddb;
+}
+
+th,
+tr:hover,
+col.name {
+  background: #6a4cbc;
+  border: 1px solid #f2bddb;
+}
+
+span.action.top a {
+  color: #000 !important;
+}
+
+.tag .primary .icon,
+.tagset .primary .icon {
+  background: url("https://i.imgur.com/TA4Ulgx.jpeg");
+  background-size: contain; 
+  background-repeat: no-repeat;
+background-position: center; 
+
+}
+
+.warnings .tag {
+  background: #FF4433;
+  color: #161922 !important;
+  border: 1px solid #161922;
+}
+
+.warnings .tag:hover {
+  background: #FF4433;
+  color: #e9485a !important;
+  border: 1px solid #161922;
+}
+
+.relationships .tag {
+  background: #FF8C00;
+  color: #161922 !important;
+  border: 1px solid #161922;
+}
+
+.relationships .tag:hover {
+  background: #FF8C00;
+  color: #fdbb8b !important;
+  border: 1px solid #161922;
+}
+
+.characters .tag {
+  background: #ffffff;
+  color: #161922 !important;
+  border: 1px solid #161922;
+}
+
+.characters .tag:hover {
+  background: #ffffff;
+  color: #161922 !important;
+  border: 1px solid #161922;
+}
+
+.freeforms .tag {
+  background: #d462a6;
+  color: #161922 !important;
+  border: 1px solid #161922;
+}
+
+.freeforms .tag:hover {
+  background: #d462a6;
+  color: #161922 !important;
+  border: 1px solid #161922;
+}
+
+.comment fieldset {
+  background: url("https://i.imgur.com/94Ap0Eu.jpeg");
+  background-repeat: repeat;
+}
+
+.comment fieldset h4.heading,
+.comment p.footnote,
+.comment .character_counter {
+  background: #161922;
+  display: inline-block;
+  padding: 2px 5px;
+  margin: 2px 0px;
+  border-radius: 5px;
+}
+
+li.comment {
+  border: 2px solid #f2bddb;
+}
+
+.comment div.icon {
+  border-bottom: 5px solid #f2bddb;
+}
+
+.comment h4.byline,
+.comment .icon {
+  background: #53a9b6;
+}
+
+.thread .even h4.byline,
+.thread .even .icon,
+.unread h4.byline,
+.unread .icon {
+  background: #c98cf4 !important;
+}
+
+.thread .even,
+.unread {
+  background: #2a2a2a;
+}
+
+.comment .posted {
+  color: #000;
+}
+
+#modal .content {
+  border: 5px solid #f2bddb;
+  background: #161922;
+  color: #add8e6;
+}
+
+#modal {
+  border: none;
+  background: #161922;
+  color: #fdbb8b;
+}
+
+#stat_chart svg {
+  filter: invert(85%) brightness(70%) hue-rotate(330deg) saturate(180%);
+}
+
+span.rating-general-audience.rating,
+span.category-gen.category,
+span.complete-yes.iswip {
+  filter: hue-rotate(350deg);
+}
+
+span.rating-teen.rating {
+  filter: invert(90%) hue-rotate(180deg) brightness(180%) contrast(120%);
+}
+
+span.category-slash.category {
+  filter: brightness(160%) hue-rotate(60deg);
+}
+
+span.category-het.category {
+  filter: brightness(150%) contrast(80%);
+}
+
+span.category-multi.category {
+  filter: brightness(120%) contrast(80%);
+}
+
+span.rating-mature.rating,
+span.warning-choosenotto.warnings {
+  filter: saturate(70%) contrast(120%);
+}
+
+span.rating-notrated.rating,
+span.category-none.category,
+span.warning-no.warnings {
+  filter: invert(100%);
+}
+
+span.rating-explicit.rating,
+span.category-femslash.category,
+span.warning-yes.warnings,
+span.complete-no.iswip {
+  filter: hue-rotate(35deg) brightness(130%) contrast(80%) saturate(140%);
+}
+
