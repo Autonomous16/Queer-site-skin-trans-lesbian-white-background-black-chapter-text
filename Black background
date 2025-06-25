@@ -1,5 +1,5 @@
 
-#header; 
+#header, 
 #outer.wrapper {
   background-image: url("https://www.flagcolorcodes.com/data/flag-of-pride-rainbow.png");
   background-repeat: repeat-x;
